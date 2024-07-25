@@ -7,6 +7,7 @@ import Add from './Components/Add'
 
 function App() {
   const [count, setCount] = useState(0)
+  //These are routes
 
   return (
     <>
